@@ -1,5 +1,7 @@
-#ingles 
+#ingles #home #home/things #ingles/cosas 
+
 *Pronouns are words that we use to reference something or someone. They take the place of a noun in the sentence*
+
 
 Felipe is drinking soda.
 He is drinking it.

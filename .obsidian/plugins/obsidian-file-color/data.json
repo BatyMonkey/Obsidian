@@ -1,0 +1,27 @@
+{
+  "palette": [
+    {
+      "id": "yGw5SEeA78h3VFrQK1V7m",
+      "name": "Inglés",
+      "value": "#7d40b0"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Obsidian notes/Inglés/Should.md",
+      "color": "yGw5SEeA78h3VFrQK1V7m"
+    },
+    {
+      "path": "Obsidian notes/Inglés/Real conditional.md",
+      "color": "yGw5SEeA78h3VFrQK1V7m"
+    },
+    {
+      "path": "Obsidian notes/Inglés/Seccond conditional.md",
+      "color": "yGw5SEeA78h3VFrQK1V7m"
+    },
+    {
+      "path": "Obsidian notes/Inglés/Possessive.md",
+      "color": "yGw5SEeA78h3VFrQK1V7m"
+    }
+  ]
+}
