@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Obsidian notes/Inglés/Possessive.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ingles",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +174,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7317f679d4cf8c5a",
+  "active": "6c44991b75297c59",
   "lastOpenFiles": [
     "Obsidian notes/Inglés/Real conditional.md",
     "Obsidian notes/Inglés/Seccond conditional.md",
