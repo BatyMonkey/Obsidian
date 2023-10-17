@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ingles",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,11 +175,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b711ef47004caf9d",
+  "active": "7317f679d4cf8c5a",
   "lastOpenFiles": [
     "Obsidian notes/Inglés/Real conditional.md",
-    "Obsidian notes/Inglés/Should.md",
     "Obsidian notes/Inglés/Seccond conditional.md",
+    "Obsidian notes/Inglés/Should.md",
     "Obsidian notes/Inglés/Possessive.md",
     "Obsidian notes/Github/VMWare key.md",
     "Obsidian notes/Github/VMWare keys.md",
