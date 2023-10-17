@@ -1,7 +1,3 @@
----
-banner: "https://www.muralunique.com/wp-content/uploads/2020/09/1816r_V_big-ben-in-london.jpg"
-banner_y: 0.38429
----
 #ingles 
 The condition is real, probable and likely to happen. And the result is logical or most likely to happen
 

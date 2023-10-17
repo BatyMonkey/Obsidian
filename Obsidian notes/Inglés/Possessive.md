@@ -1,7 +1,3 @@
----
-banner: "https://www.thetimes.co.uk/travel/wp-content/uploads/sites/6/2021/11/USE_Elevated-view-over-London-City-skyline_Credit_GettyImages-597210573.jpg?w=2200&h=880&crop=1"
-banner_y: 0.04001
----
 #ingles 
 *Pronouns are words that we use to reference something or someone. They take the place of a noun in the sentence*
 

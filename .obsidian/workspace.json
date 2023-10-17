@@ -74,14 +74,6 @@
             }
           },
           {
-            "id": "94706a1439ec9658",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "0d639abf86e3402a",
             "type": "leaf",
             "state": {
@@ -176,8 +168,8 @@
   },
   "active": "6c44991b75297c59",
   "lastOpenFiles": [
-    "Obsidian notes/Inglés/Seccond conditional.md",
     "Obsidian notes/Inglés/Real conditional.md",
+    "Obsidian notes/Inglés/Seccond conditional.md",
     "Obsidian notes/Inglés/Should.md",
     "Obsidian notes/Inglés/Possessive.md",
     "Obsidian notes/Github/VMWare key.md",
