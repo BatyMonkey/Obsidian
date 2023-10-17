@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian notes/Inglés/Should.md",
+                "file": "Obsidian notes/Inglés/Real conditional.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian notes/Inglés/Should.md",
+                "file": "Obsidian notes/Inglés/Real conditional.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian notes/Inglés/Should.md",
+                "file": "Obsidian notes/Inglés/Real conditional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian notes/Inglés/Should.md"
+                "file": "Obsidian notes/Inglés/Real conditional.md"
               }
             }
           }
@@ -167,8 +167,9 @@
   },
   "active": "6c33bbfef5e248c1",
   "lastOpenFiles": [
-    "Obsidian notes/Github/VMWare keys.md",
     "Obsidian notes/Inglés/Should.md",
+    "Obsidian notes/Inglés/Real conditional.md",
+    "Obsidian notes/Github/VMWare keys.md",
     "Untitled.canvas",
     "2023-10-17.md",
     "Obsidian notes/Inglés",

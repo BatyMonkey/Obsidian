@@ -7,4 +7,8 @@ It is always accompanied by a verb in base form
 *+* You should study for exams
 *+* You should pay attention in class
 	Should is not obligation, it´s advise
-	It represents what the speaker belives is the right 
+	It represents what the speaker belives is the right thing to do
+*-* You shouldn´t drink to much
+*?* Should I do it?
+	Yes, you should/No, you shouldn´t
+*?* Do you think I should do it?
