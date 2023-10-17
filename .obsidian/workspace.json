@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian notes/Inglés/Real conditional.md",
+                "file": "Obsidian notes/Github/VMWare key.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,6 +80,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "0d639abf86e3402a",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
         ]
       }
@@ -101,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian notes/Inglés/Real conditional.md",
+                "file": "Obsidian notes/Github/VMWare key.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian notes/Inglés/Real conditional.md",
+                "file": "Obsidian notes/Github/VMWare key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,16 +149,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian notes/Inglés/Real conditional.md"
+                "file": "Obsidian notes/Github/VMWare key.md"
               }
-            }
-          },
-          {
-            "id": "0d639abf86e3402a",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
             }
           }
         ],
@@ -170,13 +170,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "6c33bbfef5e248c1",
   "lastOpenFiles": [
-    "Obsidian notes/Inglés/Should.md",
     "Obsidian notes/Inglés/Real conditional.md",
+    "Obsidian notes/Github/VMWare key.md",
+    "Obsidian notes/Inglés/Should.md",
     "Obsidian notes/Github/VMWare keys.md",
     "Untitled.canvas",
     "2023-10-17.md",
