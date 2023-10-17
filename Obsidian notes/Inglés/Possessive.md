@@ -9,7 +9,8 @@ He is drinking it.
 He: Subject pronoun, replaces the subject. *I, You, He, She, It, We, They.*
 It: Object pronoun, replaces the object, it goes after a verb or preposition. *Me, You, Him, Her, It, Us, Them.*
 
-Possessive pronouns indicate ownership and answer the question “*Whose*”
+Possessive pronouns indicate ownership and answer the question
+“*Whose*”
 
 Whose laptop is that?
 It is Bastian’s laptop

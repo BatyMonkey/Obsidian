@@ -1,0 +1,9 @@
+{
+  "sanctum@@dark-mode-contrast-mode": "sanctum-default-dark",
+  "sanctum@@color-accent-rgb-d": "99, 149, 156",
+  "sanctum@@font-editor-theme": "Fira Code",
+  "sanctum@@active-line-accent": "rgba(var(--color-accent-rgb), .3)",
+  "sanctum@@code-border": true,
+  "sanctum@@code-label": true,
+  "sanctum@@code-lines": true
+}
