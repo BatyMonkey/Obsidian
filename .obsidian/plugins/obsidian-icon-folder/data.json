@@ -20,9 +20,9 @@
     "iconInTitleEnabled": false,
     "iconsBackgroundCheckEnabled": false
   },
-  "Obsidian notes/Inglés": "IbFolder",
-  "Obsidian notes/Github": {
+  "Obsidian notes/Inglés": {
     "iconName": "IbFolder",
-    "inheritanceIcon": "IbFolder"
-  }
+    "inheritanceIcon": "IbDocumentText"
+  },
+  "Obsidian notes/Github": "IbFolder"
 }

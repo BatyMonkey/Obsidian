@@ -12,4 +12,14 @@ Possessive pronouns indicate ownership and answer the question “*Whose*”
 Whose laptop is that?
 It is Bastian’s laptop
 It is his laptop
-It is his *Possessive pronoun m*
+It is his *Possessive pronouns: Mine, Yours, His, Hers, Its, Ours, Theirs.*
+
+Possessive adjectives: They express possession, but they always accompany a noun.
+
+*My* pen
+*Your* friend
+*His* car
+*Her* cat
+*It’s* leg
+*Our* sister
+*Their* house
