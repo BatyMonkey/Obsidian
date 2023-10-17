@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aee9abcf3c865eb3",
+        "id": "15f794f3d82ebbec",
         "type": "tabs",
         "children": [
           {
-            "id": "d378088efbeb88cc",
+            "id": "bc8046669eb2642a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new folder/test note.md",
+                "file": "Obsidian notes/Inglés/Should.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new folder/test note.md",
+                "file": "Obsidian notes/Inglés/Should.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new folder/test note.md",
+                "file": "Obsidian notes/Inglés/Should.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new folder/test note.md"
+                "file": "Obsidian notes/Inglés/Should.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d378088efbeb88cc",
+  "active": "b711ef47004caf9d",
   "lastOpenFiles": [
-    "new folder/test note.md",
-    "new folder",
+    "Obsidian notes/Inglés",
+    "Obsidian notes/Github",
+    "Obsidian notes/Inglés/Should.md",
+    "Obsidian notes",
     "repository"
   ]
 }
