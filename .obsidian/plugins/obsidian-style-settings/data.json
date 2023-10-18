@@ -6,5 +6,8 @@
   "sanctum@@code-border": true,
   "sanctum@@code-label": true,
   "sanctum@@code-lines": true,
-  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-custom-dt"
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
+  "obsidian-prism-theme@@color-scheme-style-dt": "pt-color-scheme-style-minimal-dt",
+  "obsidian-prism-theme@@file-line-width": 590,
+  "obsidian-prism-theme@@radius-m": 10
 }
