@@ -1,10 +1,10 @@
 → Life experience or non-specific point in the past 
-    ==You== <mark style="background: #ADCCFFA6;">have</mark> <mark style="background: #FF5582A6;">met</mark> Steven 
+    <span style="color:#00b050">You</span> <span style="color:#0070c0">have</span> <span style="color:#ff0000">met</span> Steven 
 → Actions that continue
-    <mark style="background: #BBFABBA6;">We</mark><mark style="background: #ADCCFFA6;">’ve</mark> <mark style="background: #FF5582A6;">been</mark> here **since** 1 pm
-*+* <mark style="background: #BBFABBA6;">Subject</mark> <mark style="background: #ADCCFFA6;">have/has</mark> <mark style="background: #FF5582A6;">Past participle</mark>
-*-* <mark style="background: #BBFABBA6;">Subject</mark> <mark style="background: #ADCCFFA6;">haven’t/hasn’t</mark> <mark style="background: #FF5582A6;">Past participle</mark>
-*?* <mark style="background: #ADCCFFA6;">Have/Has</mark> <mark style="background: #BBFABBA6;">subject</mark> <mark style="background: #FF5582A6;">past participle</mark>
+    <span style="color:#00b050">We</span><span style="color:#0070c0">’ve</span> <span style="color:#ff0000">been</span> here **since** 1 pm
+*+* <span style="color:#bbfabb">Subject</span> <span style="color:#adccff">have/has</span> <span style="color:#ff0000">Past participle</span>
+*-* Subject <mark style="background: #ADCCFFA6;">haven’t/hasn’t</mark> <span style="color:#ff0000">Past participle</span>
+*?* <mark style="background: #ADCCFFA6;">Have/Has</mark> <mark style="background: #BBFABBA6;">subject</mark> past participle
 
 **since** → introduces the moment when an action started.
     **since** 1995, **since** yesterday, **since** the dark ages
