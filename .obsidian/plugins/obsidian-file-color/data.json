@@ -2,8 +2,18 @@
   "palette": [
     {
       "id": "yGw5SEeA78h3VFrQK1V7m",
-      "name": "Inglés",
+      "name": "Morado",
       "value": "#7d40b0"
+    },
+    {
+      "id": "VyO5mn0PyLRFC5s34kHMj",
+      "name": "Naranja",
+      "value": "#f56e00"
+    },
+    {
+      "id": "dyzWH2VT4Nq9O-VxddPV3",
+      "name": "Azúl",
+      "value": "#0400ff"
     }
   ],
   "fileColors": [
@@ -22,6 +32,22 @@
     {
       "path": "Obsidian notes/Inglés/Possessive.md",
       "color": "yGw5SEeA78h3VFrQK1V7m"
+    },
+    {
+      "path": "Obsidian notes/Github/VMWare key.md",
+      "color": "VyO5mn0PyLRFC5s34kHMj"
+    },
+    {
+      "path": "Obsidian notes/Inglés",
+      "color": "yGw5SEeA78h3VFrQK1V7m"
+    },
+    {
+      "path": "Obsidian notes/Github",
+      "color": "VyO5mn0PyLRFC5s34kHMj"
+    },
+    {
+      "path": "Obsidian notes",
+      "color": "dyzWH2VT4Nq9O-VxddPV3"
     }
   ]
 }
