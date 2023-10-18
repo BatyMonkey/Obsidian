@@ -14,6 +14,3 @@ If I had time, I could conquer the world.
 *Can replace would using could*
 If the apocalypse started, what would you do?
 If I were you, I’d study.
-
-| Nombre | cosas |     | 
-| ------ | ----- | --- |
