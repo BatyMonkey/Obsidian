@@ -10,7 +10,6 @@
     "editor:toggle-bold",
     "editor:toggle-italics",
     "editor:toggle-strikethrough",
-    "editor:toggle-highlight",
     "editor:toggle-code",
     "editor:toggle-blockquote",
     "editor:insert-link",
@@ -22,6 +21,7 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar",
-    "google-calendar:create-google-calendar-event-from-frontmatter "
+    "google-calendar:create-google-calendar-event-from-frontmatter ",
+    "highlightr-plugin:highlighter-plugin-menu"
   ]
 }
