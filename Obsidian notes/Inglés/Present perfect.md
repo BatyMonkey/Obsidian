@@ -1,16 +1,18 @@
+#ingles 
+
 → Life experience or non-specific point in the past 
-    <span style="color:#00b050">You</span> <span style="color:#0070c0">have</span> <span style="color:#ff0000">met</span> Steven 
+    <span style="color:#bbfabb">You</span> <span style="color:#adccff">have</span> <span style="color:#ff0000">met</span> Steven 
 → Actions that continue
-    <span style="color:#00b050">We</span><span style="color:#0070c0">’ve</span> <span style="color:#ff0000">been</span> here **since** 1 pm
+    <span style="color:#bbfabb">We</span><span style="color:#adccff">’ve</span> <span style="color:#ff0000">been</span> here <span style="color:#ff7300">since</span> 1 pm
 *+* <span style="color:#bbfabb">Subject</span> <span style="color:#adccff">have/has</span> <span style="color:#ff0000">Past participle</span>
-*-* Subject <mark style="background: #ADCCFFA6;">haven’t/hasn’t</mark> <span style="color:#ff0000">Past participle</span>
-*?* <mark style="background: #ADCCFFA6;">Have/Has</mark> <mark style="background: #BBFABBA6;">subject</mark> past participle
+*-* <span style="color:#bbfabb">Subject</span> <span style="color:#adccff">haven’t/hasn’t</span> <span style="color:#ff0000">Past participle</span>
+*?* <span style="color:#adccff">Have/Has</span> <span style="color:#bbfabb">subject</span> <span style="color:#ff0000">past participle</span>
 
-**since** → introduces the moment when an action started.
-    **since** 1995, **since** yesterday, **since** the dark ages
+<span style="color:#ff7300">since</span> → introduces the moment when an action started.
+    <span style="color:#ff7300">since</span> 1995, <span style="color:#ff7300">since</span> yesterday, <span style="color:#ff7300">since</span> the dark ages
 
-**for** → introduces the period of time that the action has been happening.
-    **for** 3 hours, **for** 20 years, **for** about ten minutes
+<span style="color:#ff7300">for</span> → introduces the period of time that the action has been happening.
+    <span style="color:#ff7300">for</span> 3 hours, <span style="color:#ff7300">for</span> 20 years, <span style="color:#ff7300">for</span> about ten minutes
 
 She works here
-She has worked here **for** 3 years
+She has worked here <span style="color:#ff7300">for</span> 3 years
