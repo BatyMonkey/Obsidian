@@ -22,6 +22,8 @@
     "editor:redo",
     "editor:configure-toolbar",
     "google-calendar:create-google-calendar-event-from-frontmatter ",
-    "highlightr-plugin:highlighter-plugin-menu"
-  ]
+    "highlightr-plugin:highlighter-plugin-menu",
+    "editor:toggle-highlight"
+  ],
+  "defaultViewMode": "preview"
 }
