@@ -14,5 +14,5 @@
 <span style="color:#ff7300">for</span> → introduces the period of time that the action has been happening.
     <span style="color:#ff7300">for</span> 3 hours, <span style="color:#ff7300">for</span> 20 years, <span style="color:#ff7300">for</span> about ten minutes
 
-She works here
-She has worked here <span style="color:#ff7300">for</span> 3 years
+<span style="color:#bbfabb">She</span> works here
+<span style="color:#bbfabb">She</span> has worked here <span style="color:#ff7300">for</span> 3 years
