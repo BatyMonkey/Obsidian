@@ -7,7 +7,7 @@
 *We use it to talk about unreal conditions and our theoretical result.*
 
 If I won the lottery, I’d become the king.
-*I’d = I would*
+[[I]]I’d = I would
 If the zombie apocalypse started, I’d hide.
 I would eat healthy food if I wasn’t lazy.
 If I had time, I could conquer the world.
