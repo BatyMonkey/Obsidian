@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ed0267c758ef6ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian notes/Dia a dia/Calendario.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f93ef0158cecc4a2",
             "type": "leaf",
             "state": {
@@ -93,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian notes/Dia a dia/Calendario.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Obsidian notes/Dia a dia/Calendario.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
