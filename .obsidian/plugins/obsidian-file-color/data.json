@@ -1,0 +1,116 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "1uly5Sh3OV6k2S0lkoNoj",
+      "name": "naranja",
+      "value": "#ff6600"
+    },
+    {
+      "id": "tZJotCUS-pGUldh7esohA",
+      "name": "azul",
+      "value": "#1100ff"
+    },
+    {
+      "id": "arEd_VS7Guv6kA1nJ7a8c",
+      "name": "morado",
+      "value": "#8000ff"
+    },
+    {
+      "id": "_1mYoYYPwyASmObgNbk1D",
+      "name": "ns",
+      "value": "#00ff9d"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Github",
+      "color": "tZJotCUS-pGUldh7esohA"
+    },
+    {
+      "path": "Inglés",
+      "color": "arEd_VS7Guv6kA1nJ7a8c"
+    },
+    {
+      "path": "Inglés/Agreeing with people.md",
+      "color": "arEd_VS7Guv6kA1nJ7a8c"
+    },
+    {
+      "path": "Inglés/Might.md",
+      "color": "arEd_VS7Guv6kA1nJ7a8c"
+    },
+    {
+      "path": "Inglés/Passive voice.md",
+      "color": "arEd_VS7Guv6kA1nJ7a8c"
+    },
+    {
+      "path": "Inglés/Phrasal verbs.md",
+      "color": "arEd_VS7Guv6kA1nJ7a8c"
+    },
+    {
+      "path": "Inglés/Possessive.md",
+      "color": "arEd_VS7Guv6kA1nJ7a8c"
+    },
+    {
+      "path": "Inglés/Present perfect.md",
+      "color": "arEd_VS7Guv6kA1nJ7a8c"
+    },
+    {
+      "path": "Inglés/Real conditional.md",
+      "color": "arEd_VS7Guv6kA1nJ7a8c"
+    },
+    {
+      "path": "Inglés/Seccond conditional.md",
+      "color": "arEd_VS7Guv6kA1nJ7a8c"
+    },
+    {
+      "path": "Inglés/Should.md",
+      "color": "arEd_VS7Guv6kA1nJ7a8c"
+    },
+    {
+      "path": "Inglés/Used to, Didn’t use to.md",
+      "color": "arEd_VS7Guv6kA1nJ7a8c"
+    },
+    {
+      "path": "Github/VMWare key.md",
+      "color": "tZJotCUS-pGUldh7esohA"
+    },
+    {
+      "path": "Año nuevo",
+      "color": "_1mYoYYPwyASmObgNbk1D"
+    },
+    {
+      "path": "Año nuevo/Cybella.md",
+      "color": "_1mYoYYPwyASmObgNbk1D"
+    },
+    {
+      "path": "Año nuevo/Dani.md",
+      "color": "_1mYoYYPwyASmObgNbk1D"
+    },
+    {
+      "path": "Año nuevo/Diego.md",
+      "color": "_1mYoYYPwyASmObgNbk1D"
+    },
+    {
+      "path": "Año nuevo/Lauxa.md",
+      "color": "_1mYoYYPwyASmObgNbk1D"
+    },
+    {
+      "path": "Año nuevo/Huron.md",
+      "color": "_1mYoYYPwyASmObgNbk1D"
+    },
+    {
+      "path": "Año nuevo/Thomas.md",
+      "color": "_1mYoYYPwyASmObgNbk1D"
+    },
+    {
+      "path": "Año nuevo/Solcito.md",
+      "color": "_1mYoYYPwyASmObgNbk1D"
+    },
+    {
+      "path": "Año nuevo/CF.md",
+      "color": "_1mYoYYPwyASmObgNbk1D"
+    }
+  ]
+}

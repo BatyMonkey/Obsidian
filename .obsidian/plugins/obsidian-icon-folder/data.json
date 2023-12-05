@@ -1,0 +1,42 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "IbDocumentText",
+      "IbFolder"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "Inglés": {
+    "iconName": "IbFolder",
+    "inheritanceIcon": "IbDocumentText"
+  },
+  "Github": {
+    "iconName": "IbFolder",
+    "inheritanceIcon": "IbDocumentText"
+  },
+  "Github/VMWare key.md": {
+    "iconName": "IbDocumentText",
+    "inheritanceIcon": "IbDocumentText"
+  },
+  "Año nuevo": {
+    "iconName": "IbFolder",
+    "inheritanceIcon": "IbDocumentText"
+  }
+}
