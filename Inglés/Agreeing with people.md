@@ -1,19 +1,19 @@
 *(+)* Positive statements
-    So <span style="color:#adccff">aux</span> <span style="color:#bbfabb">I (subject)</span> 
-  (present simple)  
-  I love pizza. So do I
-  (present simple to be no aux)  
-   I’m human. So am I
-  (past simple did) 
-  I existed yesterday. So did I
-  (past simple to be no aux)
-  I was here yesterday. So was I
-  (present perfect have/has)
-  I’ve eaten rice. So have I
-  (future with will)
-  I will study next week. So will I
-  ()
-  I must exercise. So must I
+    <span style="color:#ff7300">So</span> <span style="color:#adccff">aux</span> <span style="color:#bbfabb">I (subject)</span> 
+    (present simple)  
+    <span style="color:#bbfabb">I</span> <span style="color:#adccff">love</span> pizza. <span style="color:#ff7300">So</span> <span style="color:#adccff">do</span> <span style="color:#bbfabb">I</span>
+    (present simple to be no aux)  
+    <span style="color:#bbfabb">I</span><span style="color:#ff0000">’m</span> <span style="color:#adccff">human</span>. <span style="color:#ff7300">So</span> <span style="color:#adccff">am</span> <span style="color:#bbfabb">I</span>
+    (past simple did) 
+    <span style="color:#bbfabb">I</span> <span style="color:#adccff">existed</span> yesterday. <span style="color:#ff7300">So</span> <span style="color:#adccff">did</span> <span style="color:#bbfabb">I</span>
+    (past simple to be no aux)
+    <span style="color:#bbfabb">I</span> <span style="color:#ff0000">was</span> <span style="color:#adccff">here</span> yesterday. <span style="color:#ff7300">So</span> <span style="color:#adccff">was</span> <span style="color:#bbfabb">I</span>
+    (present perfect have/has)
+    <span style="color:#bbfabb">I</span><span style="color:#ff0000">’ve</span> <span style="color:#adccff">eaten</span> rice. <span style="color:#ff7300">So</span> <span style="color:#adccff">have</span> <span style="color:#bbfabb">I</span>
+    (future with will)
+    <span style="color:#bbfabb">I</span> <span style="color:#ff0000">will</span> <span style="color:#adccff">study</span> next week. <span style="color:#ff7300">So</span> <span style="color:#adccff">will</span> <span style="color:#bbfabb">I</span>
+    ()
+    <span style="color:#bbfabb">I</span> <span style="color:#ff0000">must</span> <span style="color:#adccff">exercise</span>. <span style="color:#ff7300">So</span> <span style="color:#adccff">must</span> <span style="color:#bbfabb">I</span>
 *(-)* Negative statements 
-    Neither aux I
-    I don’t like cochayuyo. Neither do I
+    <span style="color:#ff7300">Neither</span> <span style="color:#adccff">aux</span> <span style="color:#bbfabb">I</span>
+    <span style="color:#bbfabb">I</span> <span style="color:#adccff">don’t</span> <span style="color:#ff0000">like</span> cochayuyo. <span style="color:#ff7300">Neither</span> <span style="color:#adccff">do</span> <span style="color:#bbfabb">I</span>
